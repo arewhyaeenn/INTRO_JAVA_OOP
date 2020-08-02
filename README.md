@@ -47,6 +47,6 @@ If you're one of my students and have stumbled across this page: please don't do
 
 This material is provided under a [Creative Commons Attribution-NonCommercial-ShareAlike License](https://creativecommons.org/licenses/by-nc-sa/4.0/). This means you can share the material, adapt it, and share your adaptations under the following terms:
 
-* **Attribution**: You must provide give appropriate credit (a link to this repository will suffice) and provide a link to [the license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+* **Attribution**: You must give appropriate credit (a link to this repository will suffice) and provide a link to [the license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 * **NonCommercial**: You may not use the material for commercial purposes. This means you cannot directly sell it; it does not mean that you cannot use it for course materials because your students pay tuition. Refer to [MIT OpenCouseWare's](https://ocw.mit.edu/terms/#noncomm) interpretation of "NonCommercial" for more specificity, but rest assured that use of these materials to learn or to teach does not break this term.
 * **ShareAlike**: If you remix, transform, or build upon the material, you must share your contributions under the same license as the original.
