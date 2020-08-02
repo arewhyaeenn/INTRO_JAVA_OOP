@@ -29,7 +29,7 @@ Hi! I'm Ryan McIntyre. I teach for the computer science department at [Californi
 
 ## How to Contribute
 
-I believe that access to education should be equal and uninhibited to the degree possible. As such, I believe educational materials should be free. That is not to say that authors should be compensated, only that their compensation need not contribute to the financial barriers to education.
+I believe that access to education should be equal and uninhibited to the degree possible. As such, I believe educational materials should be free. That is not to say that authors shouldn't be compensated, only that their compensation need not contribute to the financial barriers to education.
 
 If you like what I do, and want to contribute, here are some ways you can do so:
 
