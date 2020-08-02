@@ -23,6 +23,8 @@ The following lessons should have all of the information that you need to comple
 7. [Pillars of OOP via Interfaces](https://github.com/arewhyaeenn/OOP_PILLARS_1)
 8. [Pillars of OOP via Abstract Classes](https://github.com/arewhyaeenn/OOP_PILLARS_2)
 
+Lessons vary in length. They are intended to take 1-2 weeks each in a standard 4-unit course, including a lecture and practice quiz, both covering the same material as the reading.
+
 ## About the Author
 
 Hi! I'm Ryan McIntyre. I teach for the computer science department at [California State University Channel Islands](https://www.csuci.edu). I have two cats, stream VR games on [twitch.tv](twitch.tv), and eat an ungodly amount of hummus.
