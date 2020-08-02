@@ -23,7 +23,7 @@ The following lessons should have all of the information that you need to comple
 7. [Pillars of OOP via Interfaces](https://github.com/arewhyaeenn/OOP_PILLARS_1)
 8. [Pillars of OOP via Abstract Classes](https://github.com/arewhyaeenn/OOP_PILLARS_2)
 
-Lessons vary in length. They are intended to take 1-2 weeks each in a standard 4-unit course, including a lecture and practice quiz, both covering the same material as the reading.
+Lessons vary in length. They are intended to take 1-2 weeks each in a standard 4-unit course, including a lecture and practice quiz, both covering the same material as the reading. Eventually these practice quizzes will be moved to [Kahoot](https://kahoot.com) and linked in their corresponding lessons.
 
 ## About the Author
 
