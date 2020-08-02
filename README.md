@@ -39,13 +39,7 @@ If you like what I do, and want to contribute, here are some ways you can do so:
 
 If you are very comfortable financially and would like to donate, you can do so with the Paypal link:
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_donations" />
-<input type="hidden" name="business" value="TAF3Z6U6AGBTG" />
-<input type="hidden" name="currency_code" value="USD" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-</form>
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=TAF3Z6U6AGBTG&currency_code=USD&source=url)
 
 If you're one of my students and have stumbled across this page: please don't donate, you're already paying my salary!
 
