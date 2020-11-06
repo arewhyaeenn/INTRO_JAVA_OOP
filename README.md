@@ -27,7 +27,7 @@ Lessons vary in length. They are intended to take 1-2 weeks each in a standard 4
 
 ## About the Author
 
-Hi! I'm Ryan McIntyre. I teach for the computer science department at [California State University Channel Islands](https://www.csuci.edu). I have two cats, stream VR games on [https://www.twitch.tv](twitch.tv), and eat an ungodly amount of hummus.
+Hi! I'm Ryan McIntyre. I teach for the computer science department at [California State University Channel Islands](https://www.csuci.edu). I have two cats, stream VR games on [twitch.tv](https://www.twitch.tv), and eat an ungodly amount of hummus.
 
 ## How to Contribute
 
